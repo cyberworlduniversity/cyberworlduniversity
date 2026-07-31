@@ -1,3 +1,76 @@
+# 🛡️ Cyber World University
+
+> Empowering Future Cyber Defenders
+
+---
+
+# 👋 About Me
+
+Hi, I'm **E. Hemanathan**, Founder & CEO of **Cyber World University**.
+
+💫 **About Me**
+
+- 🛡️ Certified Ethical Hacker – Skilled in identifying and fixing security vulnerabilities.
+- 🧠 Cyber Psychology Researcher – Studies human behaviour in the digital world.
+- 🔍 Expert in Cyber Threat Analysis – Understands cyber attacks and defense strategies.
+- 💻 Passionate About Digital Safety – Dedicated to creating a safer online environment.
+- 🚀 Continuous Learner – Always exploring new cyber technologies and security trends.
+
+---
+
+# 🚀 Skills
+
+- Cyber Security
+- Ethical Hacking
+- Penetration Testing
+- Network Security
+- Digital Forensics
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+---
+
+# 📚 Current Projects
+
+- 🎓 Cyber World University
+- 🔐 Cyber Security Research
+- 🌐 Full Stack Web Development
+- 🤖 AI & Cyber Security
+
+---
+
+# 🎯 Mission
+
+To educate, inspire, and empower students worldwide with practical cybersecurity knowledge and ethical hacking skills.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Contact
+
+- 🌐 Cyber World University
+- 📧 Email: your@email.com
+- 💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ **"Securing the Digital Future Through Knowledge and Innovation."**
+
 <img src="https://github.com/cyberworlduniversity/cyberworlduniversity/blob/main/Hemanathan.jpg" alt="E Hemanathan">
 
 
