@@ -18,8 +18,7 @@ Hi, I'm **E. Hemanathan**, Founder & CEO of **Cyber World University**.
 
 ---
 
-
->  <img src="https://github.com/cyberworlduniversity/cyberworlduniversity/blob/main/Hemanathan.jpg" alt="E Hemanathan">   <
+<img src="https://github.com/cyberworlduniversity/cyberworlduniversity/blob/main/Hemanathan.jpg" alt="E Hemanathan">
 
 
 ---
