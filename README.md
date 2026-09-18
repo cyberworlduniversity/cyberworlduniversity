@@ -56,21 +56,13 @@ Hi, I'm **E. Hemanathan**, Founder & CEO of **Cyber World University**.
 
 To educate, inspire, and empower students worldwide with practical cybersecurity knowledge and ethical hacking skills.
 
----
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 # 📫 Contact
 
 - 🌐 Cyber World University
-- 📧 Email: your@email.com
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email: ehemanathan143@gmail.com
+- 💻 GitHub: https://github.com/cyberworlduniversity
 
 ---
 
