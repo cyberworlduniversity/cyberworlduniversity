@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 520" role="img" aria-label="Animated profile photo of E HEMANATHAN">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00D084"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="photoClip"><circle cx="260" cy="260" r="184"/></clipPath>
+  </defs>
+  <rect width="520" height="520" fill="transparent"/>
+  <g filter="url(#glow)" opacity=".9">
+    <circle cx="260" cy="260" r="205" fill="none" stroke="url(#g)" stroke-width="5" stroke-dasharray="18 12">
+      <animateTransform attributeName="transform" type="rotate" from="0 260 260" to="360 260 260" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="260" r="222" fill="none" stroke="#00F7FF" stroke-width="2" stroke-dasharray="4 20" opacity=".8">
+      <animateTransform attributeName="transform" type="rotate" from="360 260 260" to="0 260 260" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="260" cy="260" r="192" fill="#07111f" stroke="url(#g)" stroke-width="8"/>
+  <image x="76" y="76" width="368" height="368" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)" xlink:href="https://raw.githubusercontent.com/cyberworlduniversity/cyberworlduniversity/main/E%20HEMANATHAN.png"/>
+  <circle cx="260" cy="260" r="184" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2">
+    <animate attributeName="stroke-opacity" values=".25;.9;.25" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <g fill="#00F7FF">
+    <circle cx="260" cy="34" r="6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="486" cy="260" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="486" r="6"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="34" cy="260" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="260" y="505" fill="#00F7FF" font-size="14" letter-spacing="3">CYBERSECURITY • EDUCATOR • CEO</text>
+  </g>
+</svg>
