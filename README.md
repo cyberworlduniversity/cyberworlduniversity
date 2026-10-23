@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-photo-animated.svg" alt="Animated E HEMANATHAN profile photo" width="430" />
+<img src="E%20HEMANATHAN.png" alt="E HEMANATHAN profile photo" width="300" />
 
 # 🌐 E HEMANATHAN
 
