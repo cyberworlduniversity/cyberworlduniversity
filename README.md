@@ -6,11 +6,7 @@
 
 ### 🛡️ Founder & CEO • Cybersecurity Researcher • Certified Ethical Hacker
 
-## 🚀 CYBER WORLD UNIVERSITY
-
-**Cybersecurity • Ethical Hacking • Secure Development • Digital Safety**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Education;Ethical+Hacking+%7C+Web+Security;Cyber+Threat+Analysis;Secure+Full-Stack+Development;Digital+Safety+%26+Cyber+Awareness" alt="Animated typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=650&color=00F7FF&center=true&vCenter=true&width=800&lines=CYBER+WORLD+UNIVERSITY;CYBERSECURITY+%7C+ETHICAL+HACKING;FULL-STACK+DEVELOPMENT+%7C+SECURE+CODING;DIGITAL+SAFETY+%7C+CYBER+AWARENESS;LEARN+%E2%86%92+BUILD+%E2%86%92+SECURE+%E2%86%92+SHARE" alt="Animated introduction" />
 
 <p>
 <a href="https://cyberworlduniversitycwu.dcms.site"><img src="https://img.shields.io/badge/🌐_Website-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -19,7 +15,7 @@
 <a href="https://linkedin.com/in/hemanathan-e-0b35b3418"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=110&section=header" width="100%" />
 
 </div>
 
@@ -27,7 +23,47 @@
 
 I am **E HEMANATHAN**, Founder and CEO of **Cyber World University (CWU)**. My work combines cybersecurity education, ethical hacking, cyber threat analysis, secure development, and digital safety.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&color=7C3AED&center=true&vCenter=true&width=750&lines=Security+Researcher;Ethical+Hacking+%7C+Web+Security;Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript;Build+Secure+%7C+Think+Secure+%7C+Stay+Secure" alt="Animated skills" />
+
+</div>
+
 > 💡 **Learn technology. Build useful projects. Understand security. Share knowledge.**
+
+## 🧑‍💻 Mini Programming Language Gallery
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" alt="C" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="70" alt="C++" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="70" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" alt="CSS" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=400&color=00F7FF&center=true&vCenter=true&width=620&lines=C;C%2B%2B;Python;Java;JavaScript;PHP;HTML+%2B+CSS" alt="Animated programming languages" />
+
+</div>
+
+## ⚡ Animated Technology Wall
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,linux,vscode,mysql&perline=8" alt="Technology icons" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚡_CODE-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧪_TEST-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛡️_SECURE-00D084?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_DEPLOY-FF3366?style=for-the-badge" />
+
+</div>
 
 ## 🎯 What I Do
 
@@ -38,35 +74,6 @@ I am **E HEMANATHAN**, Founder and CEO of **Cyber World University (CWU)**. My w
 | Network Security | UI/UX & Secure Development | Student Mentoring |
 | Threat Analysis | Automation | Cyber Awareness |
 | Digital Forensics | Linux & GitHub | Technical Events |
-
-## 💻 Programming Languages & Technologies
-
-<div align="center">
-
-### 🧑‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php&perline=6" alt="Programming language icons" />
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=6" alt="Web development icons" />
-
-### 🗄️ Database • Tools • Platforms
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode&perline=6" alt="Technology icons" />
-
-</div>
-
-### ⚡ Technology Highlights
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
 
 ## 🛡️ Cybersecurity Stack
 
@@ -80,7 +87,7 @@ I am **E HEMANATHAN**, Founder and CEO of **Cyber World University (CWU)**. My w
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=700&color=7C3AED&center=true&vCenter=true&width=650&lines=CODE+%7C+TEST+%7C+SECURE;BUILD+%7C+LEARN+%7C+SHARE;CYBERSECURITY+FOR+EVERYONE" alt="Animated cybersecurity message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=450&color=00F7FF&center=true&vCenter=true&width=700&lines=SCAN+%7C+ANALYZE+%7C+PROTECT;DEFEND+%7C+LEARN+%7C+IMPROVE;CYBERSECURITY+IS+A+CONTINUOUS+JOURNEY" alt="Animated security message" />
 
 </div>
 
@@ -100,15 +107,11 @@ Authorized security labs, educational demonstrations, automation workflows, secu
 
 ## 🎤 Conferences • Workshops • Seminars
 
-Available for:
+<div align="center">
 
-- 🎤 Cybersecurity conferences
-- 🏫 College workshops and seminars
-- 💡 Guest lectures and technical sessions
-- 🛡️ Cyber awareness programs
-- 🧪 Ethical hacking demonstrations
-- 👨‍🎓 Student project mentoring
-- 🤝 Technology and open-source collaboration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=550&color=FFB000&center=true&vCenter=true&width=700&lines=🎤+CONFERENCES;🏫+COLLEGE+WORKSHOPS;💡+GUEST+LECTURES;🛡️+CYBER+AWARENESS;🧪+ETHICAL+HACKING+DEMONSTRATIONS;👨‍🎓+STUDENT+MENTORING" alt="Animated events" />
+
+</div>
 
 ## 📊 GitHub Activity
 
@@ -123,15 +126,13 @@ Available for:
 
 </div>
 
-## 🌈 My Mission
+## 🌈 Animated Mission
 
 <div align="center">
 
-### **LEARN → BUILD → SECURE → SHARE**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+SECURE+%E2%86%92+SHARE;MAKING+CYBERSECURITY+PRACTICAL;MAKING+CYBERSECURITY+ACCESSIBLE;MAKING+CYBERSECURITY+RESPONSIBLE" alt="Animated mission" />
 
-**Making cybersecurity practical, accessible, responsible, and useful.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=130&section=footer" width="100%" />
 
 </div>
 
