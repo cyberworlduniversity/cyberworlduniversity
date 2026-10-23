@@ -39,6 +39,51 @@ I am **E HEMANATHAN**, Founder and CEO of **Cyber World University (CWU)**. My w
 | Threat Analysis | Automation | Cyber Awareness |
 | Digital Forensics | Linux & GitHub | Technical Events |
 
+## 💻 Programming Languages & Technologies
+
+<div align="center">
+
+### 🧑‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php&perline=6" alt="Programming language icons" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=6" alt="Web development icons" />
+
+### 🗄️ Database • Tools • Platforms
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode&perline=6" alt="Technology icons" />
+
+</div>
+
+### ⚡ Technology Highlights
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+## 🛡️ Cybersecurity Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ethical_Hacking-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web_Security-FF3366?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threat_Analysis-00D084?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Digital_Forensics-FFB000?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=700&color=7C3AED&center=true&vCenter=true&width=650&lines=CODE+%7C+TEST+%7C+SECURE;BUILD+%7C+LEARN+%7C+SHARE;CYBERSECURITY+FOR+EVERYONE" alt="Animated cybersecurity message" />
+
+</div>
+
 ## 🚀 Featured Work
 
 ### 🌐 Cyber World University
@@ -52,20 +97,6 @@ Projects focused on scam awareness, account security, privacy education, and saf
 
 ### 🧪 Security Research
 Authorized security labs, educational demonstrations, automation workflows, secure-development experiments, and defensive security research.
-
-## 💻 Skills & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,php,mysql,git,github,linux,vscode" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ethical_Hacking-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web_Security-FF3366?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat_Analysis-00D084?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital_Forensics-FFB000?style=for-the-badge" />
-</p>
 
 ## 🎤 Conferences • Workshops • Seminars
 
@@ -85,6 +116,10 @@ Available for:
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyberworlduniversity&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberworlduniversity&theme=tokyonight&hide_border=true" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberworlduniversity&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
 
 </div>
 
